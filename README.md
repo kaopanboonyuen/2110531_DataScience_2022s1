@@ -1,4 +1,4 @@
-# 211053 DData Science and Data Engineering Tools Course at Chula 2022
+# 211053 Data Science and Data Engineering Tools Course at Chula 2022
 
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
