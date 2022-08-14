@@ -50,6 +50,11 @@
 *.svg filter=lfs diff=lfs merge=lfs -text
 
 
-datasets/* linguist-language=Python
-files/* linguist-language=Python
-img/* linguist-language=Python
+datasets/*
+files/*
+img/*
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
