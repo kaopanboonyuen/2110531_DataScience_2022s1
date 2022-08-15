@@ -1,0 +1,12 @@
+###############################
+# Git Line Endings            #
+###############################
+
+datasets/*
+files/*
+img/*
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
