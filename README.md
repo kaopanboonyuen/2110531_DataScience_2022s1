@@ -18,7 +18,7 @@
 
 Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/PandasAssignment.ipynb)
 
-** Updated python codes/notebooks will be posted here shortly before each lecture.
+### Week2: Data Preparation
 
 1. EDA: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab1_LoansDataSet.ipynb)
 
