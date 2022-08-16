@@ -20,6 +20,18 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
+1. EDA: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab1_LoansDataSet.ipynb)
+
+2. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab2_ImputeMissingValue.ipynb)
+
+3. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab3_SplitTrainTest.ipynb)
+
+4. Outliers with Log: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab4_Outliers_Titanic.ipynb)
+
+5. Outliers with Log (Titanic DataSet): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab5_Outliers_Boston_(optional).ipynb)
+
+Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Assignment2_TitanicDataPrep_ToStudent.ipynb)
+
 ### Reference:
 
 1. https://www.kaggle.com/code
