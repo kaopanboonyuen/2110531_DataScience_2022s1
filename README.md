@@ -52,10 +52,6 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/9_Market_Basket_Intro-v2.ipynb)
 
-Assignment (Safe to eat or deadly poison?): [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/Python-Data-Science/raw/master/Dataset/hed2020_dataset.csv)
-
-![Mushroom](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/hed.jpeg)
-
 ### Reference:
 
 1. https://www.kaggle.com/code
