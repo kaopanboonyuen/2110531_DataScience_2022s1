@@ -32,6 +32,30 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 
 Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Assignment2_TitanicDataPrep_ToStudent.ipynb)
 
+### Week3-4: Traditional ML
+
+1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/1_Decision-Trees_Random-Forests-v3.ipynb)
+
+2. Linear Regression: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/2_Linear-Regression-v2.ipynb)
+
+3. Logistic Regression: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/3_Logistic-Regression-v2.ipynb)
+
+4. Neural Network: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/4_Neural-Network-v3.ipynb)
+
+5. K Nearest Neighbors: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/5_K_Nearest_Neighbors-v2.ipynb)
+
+6. SVM: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/6_Support_Vector_Machine-v2.ipynb)
+
+7. Save and Load Model: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/7_Save_Load_Model-v2.ipynb)
+
+8. K-Means: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/8_K-Means-Clustering-v2.ipynb)
+
+9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/9_Market_Basket_Intro-v2.ipynb)
+
+Assignment (Safe to eat or deadly poison?): [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/Python-Data-Science/raw/master/Dataset/hed2020_dataset.csv)
+
+![Mushroom](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/hed.jpeg)
+
 ### Reference:
 
 1. https://www.kaggle.com/code
