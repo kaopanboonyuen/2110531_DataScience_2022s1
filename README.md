@@ -68,7 +68,7 @@ Assignment for Week3 (Safe to eat or deadly poison?): [![Open In GitHub](https:/
 
 5. SARIMAX: PM2.5 forecasting [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/SARIMAX_v3.ipynb)
 
-Assignment (Fashion MNIST): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/hw/(to_Student)_Assignment_FashinMNIST_v2.ipynb)
+Assignment (Fashion MNIST): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/(to_Student)_Assignment_FashinMNIST_v2.ipynb)
 
 
 ### Reference:
