@@ -56,6 +56,23 @@ Assignment for Week3 (Safe to eat or deadly poison?): [![Open In GitHub](https:/
 
 ![Mushroom](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/hed.jpeg)
 
+### Week5-6: Intro to Deep Learning
+
+1. Image classification (basic): flower classification [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/DL1_Image_classification_(Basic).ipynb)
+
+2. Image classification (advanced): flower classification [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/DL2_FlowerClassification_EfficientNet_with_pretrained_weight.ipynb)
+
+3. Semantic Segmentation (UNET): The Oxford-IIIT pet dataset [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/DL3_Segmentation_UNet.ipynb)
+
+4. LSTM: Stock price prediction [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/DL4_StockPricePredication_LSTM.ipynb)
+
+5. SARIMAX: PM2.5 forecasting [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/SARIMAX_v3.ipynb)
+
+Assignment (Fashion MNIST): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/hw/(to_Student)_Assignment_FashinMNIST_v2.ipynb)
+
+![Scrape](https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/raw/main/files/scrape.jpeg)
+
+
 ### Reference:
 
 1. https://www.kaggle.com/code
