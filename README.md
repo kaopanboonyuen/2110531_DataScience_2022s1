@@ -70,8 +70,6 @@ Assignment for Week3 (Safe to eat or deadly poison?): [![Open In GitHub](https:/
 
 Assignment (Fashion MNIST): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/hw/(to_Student)_Assignment_FashinMNIST_v2.ipynb)
 
-![Scrape](https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/raw/main/files/scrape.jpeg)
-
 
 ### Reference:
 
