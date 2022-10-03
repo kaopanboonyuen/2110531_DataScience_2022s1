@@ -70,6 +70,29 @@ Assignment for Week3 (Safe to eat or deadly poison?): [![Open In GitHub](https:/
 
 Assignment (Fashion MNIST): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week5_dl/(to_Student)_Assignment_FashinMNIST_v2.ipynb)
 
+### Week8: Data Storage with Redis
+
+Redis Example using local data
+
+Assignment (connect to redis server)
+
+
+
+### Week9: Data Storage with Redis
+
+1. Basic Webpage Scarping [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/1_basic.ipynb)
+
+2. Wikipeia Data Extraction[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/2_wiki_extraction.ipynb)
+
+3. Settrade Rest API [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/3_rest_api.ipynb)
+
+4. Twitter Data Extraction [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/4_twitter_extraction.ipynb)
+
+5. Selenium [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/5_selenium.ipynb)
+
+Assignment (Counting วันพระ)[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/assignment.ipynb)
+
+
 
 ### Reference:
 
