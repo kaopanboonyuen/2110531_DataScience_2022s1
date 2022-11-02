@@ -100,13 +100,13 @@ Assignment (Counting วันพระ)[![Open In Colab](https://raw.githubuser
 2. Complex example in [complex folder](https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/tree/main/code/week10_kafka/complex)
 
 3. AVRO
-Producer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/avro/Kafka%20Sample%20Producer%20with%20AVRO.ipynb)
+Producer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/avro/Kafka%20Sample%20Producer%20with%20AVRO.ipynb)
 and
-Consumer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/avro/Kafka%20Sample%20Consumer%20with%20AVRO.ipynb)
+Consumer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/avro/Kafka%20Sample%20Consumer%20with%20AVRO.ipynb)
 
 4. Group example in [complex folder](https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/tree/main/code/week10_kafka/group)
 
-Assignment (Transaction Verifier)[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/assignment/Transaction%20Verifier.ipynb)
+Assignment (Transaction Verifier)[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/assignment/Transaction%20Verifier.ipynb)
 
 **Note:** Do not forget to upload the following schema files to your Colab
 - [transaction.avsc](https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/assignment/transaction.avsc)
@@ -117,25 +117,25 @@ Assignment (Transaction Verifier)[![Open In Colab](https://raw.githubusercontent
 ### Week11: Big Data Processing with Spark
 
 1. (Basic Spark)
-[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/1%20-%20Basic%20Spark.ipynb)
+[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/1%20-%20Basic%20Spark.ipynb)
 
 **Note:** Do not forget to upload the following data file to your Colab
 - (star-wars.txt)[https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/star-wars.txt]
 
 2. (Spark SQL)
-[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/2%20-%20Spark%20SQL.ipynb)
+[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/2%20-%20Spark%20SQL.ipynb)
 
 **Note:** Do not forget to upload the following data file to your Colab
 - (bank-additional-full.csv)[https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/bank-additional-full.csv]
 
 3. (Spark ML)
-[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/3%20-%20Spark%20ML.ipynb)
+[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/3%20-%20Spark%20ML.ipynb)
 
 **Note:** Do not forget to upload the following data file to your Colab
 - (bank-additional-full.csv)[https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/bank-additional-full.csv]
 
 Assignment
-(Analyze IMDB)[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/assignment/Assignment.ipynb)
+(Analyze IMDB)[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/assignment/Assignment.ipynb)
 
 **Note:** Do not forget to upload the following data file to your Colab
 - (netflix-rotten-tomatoes-metacritic-imdb.csv)[https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/assignment/netflix-rotten-tomatoes-metacritic-imdb.csv]
