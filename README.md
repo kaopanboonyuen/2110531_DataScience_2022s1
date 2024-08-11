@@ -1,36 +1,49 @@
-# 2110531 Data Science and Data Engineering Tools @Chula 2022
+# 🐳 2110531 Data Science and Data Engineering Tools @Chula 2022
 
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
 ![alt text](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/files/welcome-to-the-dark-side-of-science-data-science.jpeg "join ds")
 
-## Short links for exercises:
+Welcome to the **Data Science and Data Engineering Tools Course (2110531)** at Chulalongkorn University! This repository contains the code, exercises, and resources to guide you through the fascinating world of data science, deep learning, and more. Each week, you'll dive into new concepts, reinforced with hands-on labs, to help you build a strong foundation in data science.
 
-### Week1: Intro to Numpy, Pandas
+## 📚 Weekly Labs and Exercises
 
-1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Numpy.ipynb)
+### Week 1: Intro to Numpy, Pandas
 
-2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas.ipynb)
+1. **Numpy:** Introduction to numerical computing with Numpy.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Numpy.ipynb)
 
-3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb)
+2. **Pandas:** Basic data manipulation with Pandas.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas.ipynb)
 
-4. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Advanced_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb)
+3. **Pandas with Youtube stat data:** Analyzing YouTube video statistics with Pandas.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb)
 
-Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/PandasAssignment.ipynb)
+4. **(Advanced) Pandas with Youtube stat data:** Advanced analysis of YouTube video statistics.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Advanced_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb)
 
-### Week2: Data Preparation
+5. **Assignment (Pandas with Youtube stat data):** Hands-on assignment analyzing YouTube video statistics.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/PandasAssignment.ipynb)
 
-1. EDA: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab1_LoansDataSet.ipynb)
+### Week 2: Data Preparation
 
-2. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab2_ImputeMissingValue.ipynb)
+1. **EDA:** Exploratory Data Analysis on loan data.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab1_DataPrep_Loan.ipynb)
 
-3. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab3_SplitTrainTest.ipynb)
+2. **Impute Missing Value:** Handling missing data in loan datasets.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab2_ImputeMissingValue_Loan.ipynb)
 
-4. Outliers with Log: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab4_Outliers_Titanic.ipynb)
+3. **Split Train/Test:** Splitting datasets into training and testing sets.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab3_SplitTrainTest_Loan.ipynb)
 
-5. Outliers with Log (Titanic DataSet): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Lab5_Outliers_Boston_(optional).ipynb)
+4. **Outliers with Log:** Identifying and handling outliers using logarithmic transformation.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab4_OutliersWithLog_Boston.ipynb)
 
-Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week2_dataprep/Assignment2_TitanicDataPrep_ToStudent.ipynb)
+5. **Outliers with Log (Titanic DataSet):** Advanced outlier analysis using the Titanic dataset.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab5_Outliers_Titanic.ipynb)
+
+6. **Assignment:** Titanic dataset analysis assignment.
+   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Assignment_TitanicV2_ToStudent.ipynb)
 
 ### Week3-4: Traditional ML
 
@@ -76,8 +89,6 @@ Redis Example using local data
 
 Assignment (connect to redis server)
 
-
-
 ### Week9: Data Storage with Redis
 
 1. Basic Webpage Scarping [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/1_basic.ipynb)
@@ -91,7 +102,6 @@ Assignment (connect to redis server)
 5. Selenium [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/5_selenium.ipynb)
 
 Assignment (Counting วันพระ)[![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110531_DataScience_2022s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week9_dataextract/assignment.ipynb)
-
 
 ### Week10: Data Ingestion with Kafka
 
@@ -112,7 +122,6 @@ Assignment (Transaction Verifier)[![Open In Colab](https://raw.githubusercontent
 - [transaction.avsc](https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/assignment/transaction.avsc)
 - [submit.avsc](https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/assignment/submit.avsc)
 - [result.avsc](https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week10_kafka/assignment/result.avsc)
-
 
 ### Week11: Big Data Processing with Spark
 
@@ -140,17 +149,36 @@ Assignment
 **Note:** Do not forget to upload the following data file to your Colab
 - (netflix-rotten-tomatoes-metacritic-imdb.csv)[https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/blob/main/code/week11_spark/assignment/netflix-rotten-tomatoes-metacritic-imdb.csv]
 
-
 ### Week12: Ops Stars
 
 1. Several airflow examples in (airflow folder)[https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/tree/main/code/week12_orchestration/airflow]
 
 2. Several fastapi examples in (fastapi folder)[https://github.com/kaopanboonyuen/2110531_DataScience_2022s1/tree/main/code/week12_orchestration/fastapi]
 
+## 🛠 Environment Setup
 
-### Reference:
+The code in this repository is designed to run in [Google Colab](https://colab.research.google.com/) or a local Python environment. To get started locally, ensure you have Python 3.8+ installed and use the following steps to set up your environment:
+
+```bash
+git clone https://github.com/kaopanboonyuen/2110446_DataScience_2021s2.git
+cd 2110446_DataScience_2021s2
+pip install -r requirements.txt
+```
+
+## 📚 References
 
 1. https://www.kaggle.com/code
 2. https://www.tensorflow.org/tutorials
 3. https://github.com/topics/machine-learning
 4. https://archive.ics.uci.edu/ml/datasets.php
+5. https://colab.research.google.com/notebooks/
+
+## 🎓 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## 🛡️ Disclaimer
+
+This repository is for educational purposes only. All code and resources are provided as-is, without any guarantees or warranties.
+
+For any questions or feedback, please contact me at [Kao Panboonyuen](mailto:panboonyuen.kao@gmail.com).
